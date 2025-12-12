@@ -1,0 +1,1 @@
+user:pas@ip:port
